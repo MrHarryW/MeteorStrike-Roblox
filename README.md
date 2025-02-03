@@ -10,7 +10,7 @@ A **Roblox Lua script** that spawns meteors randomly within a defined area. The 
 
 
 ## 🛠️ How to Use  
-```
+
 1️⃣ **Place a Meteor Object in `ServerStorage`**  
    - Ungroup the `ServerStorage` folder in `ServerStorage` in your Roblox Studio
 
@@ -29,4 +29,4 @@ This project is **open-source** and available under the **MIT License**.
 
 ### 🚀 **Try it out & contribute!**  
 If you find this script useful, feel free to ⭐ the repo and contribute! 🔥  
-```
+
